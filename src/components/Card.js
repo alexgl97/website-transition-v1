@@ -6,17 +6,17 @@ import './Card.css'
 function Card() {
     return (
         <div className="cards">
-            <h1>Check out these Destination</h1>
+            <h1>Check out these Destinations</h1>
             <div className="cards__wrapper">
                 <ul className="cards__items">
                     <CardItem
-                    src="images/img-9.jpg"
-                    text="Amazon Jungle"
+                    src="images/11.jpg"
+                    text="Mountains"
                     label="Adventure"
                     path="/services"
                     />
                     <CardItem
-                    src="images/img-2.jpg"
+                    src="images/22.jpg"
                     text="Bali"
                     label="Luxury"
                     path="/services"
@@ -24,20 +24,20 @@ function Card() {
                 </ul>
                 <ul className="cards__items">
                     <CardItem
-                    src="images/img-3.jpg"
+                    src="images/66.jpg"
                     text="Amazon Jungle"
                     label="Mistery"
                     path="/services"
                     />
                     <CardItem
-                    src="images/img-4.jpg"
-                    text="Bali"
+                    src="images/44.jpg"
+                    text="Mali"
                     label="Adventure"
                     path="/services"
                     />
                     <CardItem
-                    src="images/img-5.jpg"
-                    text="London"
+                    src="images/55.jpg"
+                    text="India"
                     label="Classic"
                     path="/services"
                     />
